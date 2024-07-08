@@ -1,6 +1,6 @@
 # E-commerce Customer Behavior Analysis and Segmentation
 
-![E-commerce](e-commerce.jpg)
+![E-commerce]
 
 This project analyzes customer behavior and segments customers in an e-commerce context using machine learning techniques. The dataset includes information about customers' demographics, product preferences, and purchasing patterns.
 
