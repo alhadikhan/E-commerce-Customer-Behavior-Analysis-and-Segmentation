@@ -11,10 +11,6 @@ This project analyzes customer behavior and segments customers in an e-commerce 
 - [Project Goals](#project-goals)
 - [Methods and Techniques](#methods-and-techniques)
 - [Results](#results)
-- [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
